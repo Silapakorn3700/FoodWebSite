@@ -8,7 +8,7 @@ const Home = () => (
       เปิดประตูสู่ครัวโลก: ลิ้มรสอาหารพื้นบ้านแท้ๆ จากทุกมุมโลก
     </p>
     <img
-      src="https://placehold.co/800x500/FDE68A/4B5563?text=อาหารน่ารับประทาน"
+      src="https://lh3.googleusercontent.com/proxy/74NlA5raMtsVDASK9OTvN-jr3MNrJLG_89dtfybzSk4xg3TCYsQpP6ychLickL2ini2bvB90QiGkNI2ofp_gYwO4EgZLe4xL5ukt_qlie-IMh8nt8sCdA3nvU4Ff-yj55w"
       alt="A variety of delicious foods"
       className="w-full h-auto rounded-xl shadow-lg mb-8"
     />
