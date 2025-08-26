@@ -286,7 +286,7 @@ const Content = () => {
         id: 11,
         title: "ทาโก้",
         country: "เม็กซิโก",
-        image: "https://placehold.co/600x400/374151/FFFFFF?text=ทาโก้",
+        image: "data:image/jpeg;base64,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",
         description: "อาหารประจำชาติของเม็กซิโก แผ่นแป้งตอติญ่ากรอบหรือนุ่มสอดไส้เนื้อสัตว์ปรุงรส ผักสด และซัลซ่ารสจัดจ้าน",
         ingredients: [
           "แผ่นแป้งตอติญ่า",
@@ -310,7 +310,7 @@ const Content = () => {
         id: 12,
         title: "แฮมเบอร์เกอร์",
         country: "สหรัฐอเมริกา",
-        image: "https://placehold.co/600x400/374151/FFFFFF?text=แฮมเบอร์เกอร์",
+        image: "https://static.amarintv.com/images/upload/editor/source/Deaw2024/22042524/64/927960.jpg",
         description: "อาหารจานด่วนยอดนิยมทั่วโลก ขนมปังเบอร์เกอร์ที่สอดไส้เนื้อบดปรุงรส ผักกาดหอม มะเขือเทศ ชีส และซอส",
         ingredients: [
           "ขนมปังเบอร์เกอร์",
@@ -332,7 +332,7 @@ const Content = () => {
         id: 13,
         title: "พูทีน",
         country: "แคนาดา",
-        image: "https://placehold.co/600x400/374151/FFFFFF?text=พูทีน",
+        image: "https://api2.krua.co/wp-content/uploads/2024/01/ArticlePic_1670x1095-11-2-1024x671.jpg",
         description: "อาหารจานเด็ดจากแคนาดา ประกอบด้วยเฟรนช์ฟราย, ชีส curd, และราดด้วยน้ำเกรวี่ร้อนๆ",
         ingredients: [
           "มันฝรั่ง",
@@ -353,7 +353,7 @@ const Content = () => {
         id: 24,
         title: "จัมบาลายา",
         country: "สหรัฐอเมริกา",
-        image: "https://placehold.co/600x400/374151/FFFFFF?text=จัมบาลายา",
+        image: "https://preview.redd.it/ywa8bn50ep981.jpg?width=680&format=pjpg&auto=webp&s=f4abcfbb391b1222ed746836e1c25a4ec81c6605",
         description: "อาหารจานเดียวจากรัฐหลุยเซียนาที่ได้รับอิทธิพลจากอาหารสเปนและแอฟริกา ประกอบด้วยข้าว เนื้อสัตว์ (ไก่, ไส้กรอก Andouille), อาหารทะเล (กุ้ง), และผัก",
         ingredients: [
           "ข้าว",
@@ -380,7 +380,7 @@ const Content = () => {
         id: 15,
         title: "ซีซาร์สลัด",
         country: "เม็กซิโก",
-        image: "https://placehold.co/600x400/374151/FFFFFF?text=ซีซาร์สลัด",
+        image: "https://www.silpa-mag.com/wp-content/uploads/2024/05/griddled-chicken-scaled.jpg",
         description: "สลัดที่คิดค้นขึ้นในเม็กซิโก ประกอบด้วยผักกาดหอมโรเมนและขนมปังกรอบคลุกเคล้ากับน้ำสลัดที่ทำจากไข่, ชีส, น้ำมันมะกอก, มะนาว, กระเทียม, และปลาแอนโชวี",
         ingredients: [
           "ผักกาดหอมโรเมน",
@@ -407,7 +407,7 @@ const Content = () => {
         id: 16,
         title: "เซบิเช่",
         country: "เปรู",
-        image: "https://placehold.co/600x400/374151/FFFFFF?text=เซบิเช่",
+        image: "https://img.wongnai.com/p/1920x0/2022/05/27/2a9fe02023e84370bb35610751b43bef.jpg",
         description: "ปลาหรืออาหารทะเลหั่นเต๋า หมักในน้ำมะนาวหรือน้ำส้มสายชู พร้อมหัวหอมแดง, พริก และผักชี เสิร์ฟแบบเย็นๆ",
         ingredients: [
           "เนื้อปลาขาวสด",
@@ -428,7 +428,7 @@ const Content = () => {
         id: 17,
         title: "เอมปานาดา",
         country: "อาร์เจนตินา",
-        image: "https://placehold.co/600x400/374151/FFFFFF?text=เอมปานาดา",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4aqA29oXBRlPpUqLWhWr4mBypNK8FG8_bHw&s",
         description: "ขนมแป้งอบหรือทอดสอดไส้ด้วยเนื้อสัตว์ปรุงรส, มันฝรั่ง, ไข่, และมะกอก เป็นอาหารว่างหรืออาหารจานหลักที่ยอดเยี่ยม",
         ingredients: [
           "แป้งสำหรับทำเอมปานาดา",
@@ -448,7 +448,7 @@ const Content = () => {
         id: 18,
         title: "เฟโจอาดา",
         country: "บราซิล",
-        image: "https://placehold.co/600x400/374151/FFFFFF?text=เฟโจอาดา",
+        image: "https://img.freepik.com/premium-photo/traditional-brazilian-feijoada-with-cabbage-rice_538646-72.jpg",
         description: "สตูว์ถั่วดำที่ปรุงด้วยเนื้อหมูหลากหลายชนิด ทั้งไส้กรอก, ซี่โครง, และเนื้อเค็ม เสิร์ฟพร้อมข้าวและส้มหั่นชิ้น",
         ingredients: [
           "ถั่วดำ",
@@ -469,7 +469,7 @@ const Content = () => {
         id: 19,
         title: "อาเรปา",
         country: "โคลอมเบีย",
-        image: "https://placehold.co/600x400/374151/FFFFFF?text=อาเรปา",
+        image: "https://www.gourmetandcuisine.com/Images/editor_upload/_editor20220330025039_original.jpg",
         description: "แผ่นขนมปังทรงกลมทำจากแป้งข้าวโพดเนื้อนุ่ม นิยมนำไปย่างหรือทอดและสอดไส้ด้วยชีส, เนื้อสัตว์, หรือผัก",
         ingredients: [
           "แป้งข้าวโพดสำหรับทำอาเรปา",
@@ -491,7 +491,7 @@ const Content = () => {
         id: 20,
         title: "ปิกัญญ่า",
         country: "บราซิล",
-        image: "https://placehold.co/600x400/374151/FFFFFF?text=ปิกัญญ่า",
+        image: "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/00/a0000465/img/th/a0000465_parts_58003e6a474fc.jpg?20170412181643&q=80&rw=686&rh=490",
         description: "เนื้อวัวส่วนสะโพกที่มีชั้นไขมันติดอยู่ด้านบน นำมาย่างบนเตาถ่านจนได้ความสุกที่พอเหมาะ นิยมรับประทานในร้านอาหารแบบ Rodízio",
         ingredients: [
           "เนื้อวัวส่วนปิกัญญ่า",
@@ -511,7 +511,7 @@ const Content = () => {
         id: 21,
         title: "ทาจีน",
         country: "โมร็อกโก",
-        image: "https://placehold.co/600x400/374151/FFFFFF?text=ทาจีน",
+        image: "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2025/8/22/6bfadaebe3164603a71eb2b298329308",
         description: "สตูว์เนื้อหรือผักที่ปรุงอย่างช้าๆ ในหม้อดินเผาทรงกรวย รสชาติเข้มข้นด้วยเครื่องเทศนานาชนิด เช่น หญ้าฝรั่น, ขิง, และอบเชย",
         ingredients: [
           "เนื้อแกะหรือไก่",
@@ -533,7 +533,7 @@ const Content = () => {
         id: 22,
         title: "โดโร วัต",
         country: "เอธิโอเปีย",
-        image: "https://placehold.co/600x400/374151/FFFFFF?text=โดโร+วัต",
+        image: "https://media.istockphoto.com/id/1190643815/th/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2/%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B9%8D%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B8%A2-doro-wat-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%94%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%99%E0%B8%B1%E0%B9%89.jpg?s=612x612&w=0&k=20&c=EV1b2MLIppP6W03QH8dAXD-06Mo86vWf78vU1pEXe88=",
         description: "สตูว์ไก่รสชาติเผ็ดร้อนที่ปรุงด้วยเครื่องเทศแบบเบอร์เบเร (Berbere) เสิร์ฟพร้อมไข่ต้มและอินเจรา (Injera) ซึ่งเป็นขนมปังแบนเนื้อฟู",
         ingredients: [
           "ไก่",
@@ -555,7 +555,7 @@ const Content = () => {
         id: 23,
         title: "บันนี่โชว์",
         country: "แอฟริกาใต้",
-        image: "https://placehold.co/600x400/374151/FFFFFF?text=บันนี่โชว์",
+        image: "https://img.freepik.com/premium-photo/south-african-fast-food-dish-bunny-chow-curry-with-meat-vegetables-white-bread-white-background_781325-10497.jpg?w=360",
         description: "สตูว์แกงที่เสิร์ฟในขนมปังที่เจาะเป็นโพรง เป็นอาหารจานด่วนที่ได้รับความนิยมอย่างมาก",
         ingredients: [
           "เนื้อแกะหรือไก่",
@@ -576,7 +576,7 @@ const Content = () => {
         id: 24,
         title: "คูสคูส",
         country: "แอลจีเรีย",
-        image: "https://placehold.co/600x400/374151/FFFFFF?text=คูสคูส",
+        image: "https://media.istockphoto.com/id/1137637638/th/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2/%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%AD%E0%B8%A5%E0%B8%88%E0%B8%B5%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2-couscous.jpg?s=612x612&w=0&k=20&c=aLz3l_GAWQrysqbLILwkjeiQddKuvpb0avvm-n6A5DU=",
         description: "เม็ดแป้งขนาดเล็กทำจากข้าวสาลีชนิดหนึ่ง นำมานึ่งจนสุกและเสิร์ฟพร้อมสตูว์เนื้อหรือผักที่ปรุงรสเข้มข้น",
         ingredients: [
           "คูสคูส",
@@ -597,7 +597,7 @@ const Content = () => {
         id: 25,
         title: "คอชารี",
         country: "อียิปต์",
-        image: "https://placehold.co/600x400/374151/FFFFFF?text=คอชารี",
+        image: "https://image.springnews.co.th/uploads/images/md/2018/04/4hywocFjKJChjLMFY9NJ.jpg",
         description: "อาหารจานเดียวที่ประกอบด้วยข้าว, มักกะโรนี, และถั่วเลนทิล ราดด้วยซอสมะเขือเทศเผ็ดและโรยหน้าด้วยหัวหอมเจียวกรอบ",
         ingredients: [
           "ข้าว",
